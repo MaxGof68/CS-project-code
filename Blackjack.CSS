@@ -5,8 +5,6 @@
     width: 30%;
     padding: 20px;
     border-radius: 20px;
-
-
 }
 
 .button1{
@@ -22,9 +20,6 @@
     position: fixed;
     left: 45%;
     top: 40%;
-    
-
-
 }
 
 .button2{
@@ -38,11 +33,23 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     position: fixed;
-    left: 46%;
+    left: 45%;
     top: 50%;
+}
 
-
-
+.button3{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    color: black;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: fixed;
+    left: 45%;
+    top: 60%;
 }
 
 .input1{
@@ -53,7 +60,6 @@
     position: fixed;
     left: 45%;
     top: 40%;
-
 }
 
 .input2{
@@ -64,7 +70,6 @@
     position: fixed;
     left: 45%;
     top: 50%;
-
 }
 
 .input3{
@@ -75,7 +80,6 @@
     position: fixed;
     left: 45%;
     top: 60%;
-
 }
 
 .input4{
@@ -86,7 +90,6 @@
     position: fixed;
     left: 45%;
     top: 70%;
-
 }
 
 .submit{
@@ -102,7 +105,6 @@
     position: fixed;
     left: 47%;
     top: 60%;
-
 }
 
 .submit2{
@@ -118,7 +120,6 @@
     position: fixed;
     left: 47%;
     top: 80%;
-
 }
 
 
