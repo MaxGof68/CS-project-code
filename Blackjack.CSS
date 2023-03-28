@@ -52,6 +52,21 @@
     top: 60%;
 }
 
+.back{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    color: black;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: fixed;
+    left: 5%;
+    top: 90%;
+}
+
 .input1{
     border-style: solid;
     border-color: black;
@@ -152,4 +167,32 @@
     position: fixed;
     left: 35%;
     top: 47%;
+}
+
+#re-password{
+    background-color: white;
+    border-style: solid;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 11%;
+    height: 3%;
+    padding: 20px;
+    position: fixed;
+    left: 30%;
+    top: 57%;
+}
+
+#mem-info{
+    background-color: white;
+    border-style: solid;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 13%;
+    height: 3%;
+    padding: 20px;
+    position: fixed;
+    left: 28%;
+    top: 67%;
 }
