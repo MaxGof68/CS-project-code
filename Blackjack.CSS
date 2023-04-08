@@ -196,3 +196,75 @@
     left: 28%;
     top: 67%;
 }
+
+#table{
+    background-color:green;
+    border-style: solid;
+    border-radius: 200px;
+    border-color:saddlebrown;
+    border-width: 10px;
+    height: 400px;
+    width: 60%;
+    position: fixed;
+    left: 20%;
+    top: 30%;
+}
+
+#midbox{
+    border-style: solid;
+    border-color: black;
+    height: 80px;
+    width: 40%;
+    position: fixed;
+    left: 30%;
+    top: 47%;
+    color: gold;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buttonstay{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    color: black;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: fixed;
+    left: 33%;
+    top: 60%;
+}
+
+.buttonhit{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    color: black;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: fixed;
+    left: 40%;
+    top: 60%;
+}
+
+.buttondeal{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    color: black;
+    padding: 15px 32px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: fixed;
+    left: 37%;
+    top: 60%;
+}
