@@ -203,20 +203,20 @@
     border-radius: 200px;
     border-color:saddlebrown;
     border-width: 10px;
-    height: 400px;
-    width: 60%;
+    height: 500px;
+    width: 70%;
     position: fixed;
-    left: 20%;
-    top: 30%;
+    left: 15%;
+    top: 25%;
 }
 
 #midbox{
     border-style: solid;
     border-color: black;
     height: 80px;
-    width: 40%;
+    width: 30%;
     position: fixed;
-    left: 30%;
+    left: 35%;
     top: 47%;
     color: gold;
     text-align: center;
@@ -235,7 +235,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     position: fixed;
-    left: 33%;
+    left: 66%;
     top: 60%;
 }
 
@@ -250,11 +250,11 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     position: fixed;
-    left: 40%;
+    left: 74%;
     top: 60%;
 }
 
-.buttondeal{
+#buttondeal{
     background-color: white;
     border-style: solid;
     border-color: black;
@@ -265,6 +265,37 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     position: fixed;
-    left: 37%;
+    left: 70%;
+    top: 70%;
+}
+
+#cardback1{
+    position: fixed;
+    left: 28%;
+    top: 45%;
+
+}
+
+#card1{
+    position: fixed;
+    left: 44%;
+    top: 30%;
+}
+
+#card4{
+    position: fixed;
+    left: 50%;
+    top: 30%; 
+}
+
+#card2{
+    position: fixed;
+    left: 50%;
+    top: 60%;
+}
+
+#card3{
+    position: fixed;
+    left: 44%;
     top: 60%;
 }

@@ -15,15 +15,28 @@
             
     <body style="background-color:seagreen ;">
     
+        
+        
         <div id="table">
         </div>
+        <script>
+            function myFunction() {
+              var x = document.getElementById("buttondeal");
+              if (x.style.display === "none") {
+                x.style.display = "block";
+              } else {
+                x.style.display = "none";
+              }
+            }
+            </script>
 
         <div id="midbox">
+            <img src="cardimages/card-back2.png" id="cardback1">
             Dealer must draw on 16 and stand on 17
         </div>
-    <button onclick="console.log(newdeck);" class="buttonhit">Hit</button>
-    <button class="buttonstay">Stay</button>
-    <button class="buttondeal">Deal</button>
+    <button onclick="game.hitPlayer();" class="buttonhit">Hit</button>
+    <button class="buttonstay" onclick="game.dealersTurn();">Stay</button>
+    <button id="buttondeal" onclick="start()">Deal</button>
             
     </body>
             
